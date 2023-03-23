@@ -1,0 +1,1 @@
+wget  /etc/apt/sources.list
